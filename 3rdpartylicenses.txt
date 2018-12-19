@@ -368,8 +368,6 @@ MIT
 
 @angular/material/snack-bar
 
-@angular/material/grid-list
-
 @angular/flex-layout
 MIT
 The MIT License
