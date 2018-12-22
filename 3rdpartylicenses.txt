@@ -401,6 +401,10 @@ THE SOFTWARE.
 
 @angular/material/select
 
+@angular/material/list
+
+@angular/material/icon
+
 ngx-scrollbar
 MIT
 
